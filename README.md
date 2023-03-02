@@ -1,5 +1,7 @@
 # Simplicial Hopfield networks
-Code for Burns &amp; Fukai "Simplicial Hopfield networks" ICLR 2023. Paper available at: https://openreview.net/forum?id=_QLsH8gatwx
+Code repositoy for Burns &amp; Fukai "Simplicial Hopfield networks" ICLR 2023. Paper available at: https://openreview.net/forum?id=_QLsH8gatwx
+
+NOTE: The code will be provided here by 1 April.
 
 BibTeX Record
 ```
